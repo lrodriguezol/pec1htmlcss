@@ -1,0 +1,262 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    color: var(--text-color);
+    line-height: 1.5;
+}
+
+.tit {
+    text-align: right;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -4px;
+    color: #6374FC;
+}
+
+.tit span {
+    color: black;
+    letter-spacing: normal;
+}
+
+
+
+a {
+    color: var(--text-color);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--text-color);
+}
+
+a:hover {
+    color: #6374FC;
+    border-bottom: 1px dotted var(--contrast-color);
+}
+
+ul {
+    padding-left: 30px;
+    list-style-type: square;
+}
+ul li {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+
+header {
+    height: 20vh;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: var(--bg-dark-color);
+}
+
+footer {
+    height: 15vh;
+    padding-top: 15px;
+    padding-bottom: 15px;    
+    color: black;
+    text-align: center;
+    background-color: #7280ed;
+}
+
+main {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/*
+Las reglas que van a continuación consiguen que los contenidos dentro del elemento de class .container se adapten a los diversos dispositivos.
+La class .container define un contenedor que ocupar el 100% de la pantalla del dispositivo, con un margen interior por la izquierda y por la derecha de 15 píxeles, y márgenes por la izquierda y por la derecha automáticos, para conseguir un diseño centrado.
+A continuació utilizamos media queries, un módulo de CSS3 que permite adaptar la representación del contenido a las características del dispositivo y que se estudia en la unidad 5.
+Con las 4 media queries utilizadas indicamos la anchura máxima que el .container tiene que tener cuando los dispositivos tengan la anchura mínima indicada por el punto de ruptura (breakpoint).
+*/
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+  
+@media (min-width: 768px) {
+    .container {
+      max-width: 720px;
+    }
+}
+  
+@media (min-width: 992px) {
+    .container {
+      max-width: 960px;
+    }
+}
+
+
+/* Pie de Página*/
+
+footer {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: black;
+}
+
+
+/* Cabecera */
+nav {
+    text-align: center;
+    color: black;
+}
+nav ul {
+    padding-left: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding-left: 0;
+}
+
+nav ul li::before {
+    content: " · ";
+    width: 10px;
+}
+
+nav ul li:first-child::before {
+    content: "";
+}
+
+nav ul li a {
+    color: inherit;
+    border: none;
+}
+
+nav ul li a:hover {
+    border: none;
+    color: var(--contrast-color);
+}
+
+nav li.active {
+    font-size: 1.5rem;
+    color: #6374FC;
+}
+
+nav li.active::before {
+    font-weight: 400;
+}
+
+
+/*Index.html*/
+
+body.home{
+    background-image: url(../img/gallo-azul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    backdrop-filter: blur(3px);
+   
+
+
+}
+
+body.home main {
+    padding-top: 10vh;
+    height: 65vh;
+}
+
+body.home footer {
+    background-color: transparent;
+}
+
+body.home h1 {
+    font-size: 4rem;
+    line-height: 1;
+}
+
+body.home a {
+    color: inherit;
+    border: none;
+}
+
+body.home a:hover {
+    border: none;
+    text-decoration: underline;
+    color: var(--contrast-color);
+}
+
+body.home nav ul {
+    text-align: right;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+body.home nav ul li {
+    font-size: 1.3rem;
+}
+
+body.home main p {
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+body.home footer p {
+    margin-bottom: 0.5rem;
+}
+
+h2{
+    padding-bottom: 15px;
+}
+
+p{
+    padding-bottom: 10px;
+}
+
+
+blockquote{
+    padding-bottom: 10px;
+    background-color: #eeecfd;
+    margin-bottom: 15px;
+    font-weight: 500;
+    text-align: center;
+    font-style: italic;
+}
+
+figcaption{
+
+    font-size: 0.8rem;
+}
+
+figure{
+
+    text-align: center;
+}
+
+iframe {
+    width: 700px;
+    height: 400px;
+}
+
+/*Esta regla permite que el tamaño de la letra de estos dos elementos de la página de inicio tengan un tamaño mayor cuando tengamos una pantalla de una anchura mínima de 1200 píxeles*/
+
+@media (min-width: 992px) {
+    body.home h1 {
+        font-size: 6rem;
+    }
+}
+
+article ul.library {
+    list-style-type: none;
+    /*list-style-image: url('../img/book.png');*/
+    font-size: 1.3rem;
+}
+
+article ul.library ul {
+    list-style-image: none;
+    list-style-type: circle;
+    font-size: 1rem; 
+}

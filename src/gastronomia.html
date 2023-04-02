@@ -11,29 +11,41 @@
     <script type="module" src="app.js"></script>
   </head>
 
-  <body class="home">
-
-    <!--Cabecera-->
+  <body>
+   
+   <!--Cabecera-->
      <header>
         <div class="container">
+
+            <div class="tit">
+               <h1><a href="index.html">Jerez<span>Fra</span></a></h1>
+            </div>
+
             <nav>
                 <ul>
                     <li><a href="presentacion.html">Presentación</a></li>
-                    <li><a href="categorias.html">Categorías</a></li>
+                    <li class="active"><a href="categorias.html">Categorías</a></li>
                     <li><a href="enlaces.html">Enlaces</a></li>
                 </ul>
             </nav>
         </div>
     </header>
+
+          <!--clase contenedora-->
+      <main class="container">
       
-    <!--Contenedor-->
-    <main>
-        <div class="container">
-            <h1>Jerez de la Frontera</h1>
-        </div>
+        <h2>Categorías</h2>
+
+        <div id="containerReferentes">
+           <ul class="listaEnlacesRef">
+              <li><a href="vinos.html">Vinos</a></li>
+              <li class="active"><a href="gastronomia.html">Gastronomía</a></li>
+              <li><a href="eventos.html">Eventos</a></li>
+          </ul>
+      </div>
     </main>
 
-    <!--Pie de Página-->
+   <!--Pie de Página-->
     <footer>
         <div class="container">
             <p>Asignatura Herramientas HTML y CSS</p>
