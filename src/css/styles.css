@@ -17,8 +17,8 @@ header {
 }
 
 main {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .container {
@@ -42,10 +42,17 @@ footer {
     font-weight: 700;
 }
 
+footer img{
+    width: 20px;
+    height: 20px;
+    display: inline;
+
+}
+
 /* Cabecera*/
 
 nav {
-    text-align: center;
+    text-align: right;
     color: black;
 }
 
@@ -132,8 +139,8 @@ a {
 
 h2{
     padding-bottom: 15px;
-    padding-top: 15px;
-    font-size: 1.2rem;
+    padding-top: 10px;
+    font-size: 1.1rem;
     font-weight: 600;
     text-align: center;
 }
@@ -145,7 +152,7 @@ p{
 .tit {
     text-align: right;
     font-family: 'Work Sans', sans-serif;
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: 800;
     letter-spacing: -4px;
     color: #6374FC;
@@ -198,13 +205,13 @@ img{
 #listadoEventos ul{
     list-style-type: square;
     text-align: center;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
 }
 
 #listadoEventos ul li {
     display: inline-block;
     font-size: 1rem;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 #listadoEventos a {
@@ -216,7 +223,6 @@ img{
     border: none;
     text-decoration: underline;
 }
-
 
 
 /*ss.html*/
@@ -260,11 +266,15 @@ img{
     }
 
     img{
-        height: 350px;    
+        height: 300px;    
     }
 
     .imgSS{
         height: 700px; 
+    }
+
+      .boton-redes{
+        height: 25px;
     }
 }
 
@@ -276,7 +286,7 @@ img{
     }
 
     .home h2{
-        font-size: 1.5rem;
+        font-size: 1.4rem;
     }
 
     .container {
@@ -303,4 +313,9 @@ img{
         height: 650px; 
     }
 
+    .boton-redes{
+        height: 30px;
+    }
+
 }
+
