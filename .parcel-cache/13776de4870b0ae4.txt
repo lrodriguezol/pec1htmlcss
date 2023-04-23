@@ -1,5 +1,5 @@
 7412
-32C:\Users\laura\Desktop\PEC1\dist133264079454129940 1
+32C:\Users\laura\Desktop\PEC1\dist133267227888761623 1
 77C:\Users\laura\Desktop\PEC1\node_modules\is-shared-array-buffer\.eslintignore133240690533533950 0
 36C:\Users\laura\Desktop\PEC1\src\.git133264078360096369 1
 81C:\Users\laura\Desktop\PEC1\node_modules\@parcel\runtime-browser-hmr\package.json133240679657437931 0
@@ -72,7 +72,7 @@
 66C:\Users\laura\Desktop\PEC1\node_modules\@parcel\core\package.json133240679672535373 0
 53C:\Users\laura\Desktop\PEC1\node_modules\resolve\test133240690538811830 1
 66C:\Users\laura\Desktop\PEC1\node_modules\unbox-primitive\.eslintrc133240690533054200 0
-44C:\Users\laura\Desktop\PEC1\src\enlaces.html133264044719058379 0
+44C:\Users\laura\Desktop\PEC1\src\enlaces.html133267203597587191 0
 48C:\Users\laura\Desktop\PEC1\node_modules\is-json133240679632614043 1
 87C:\Users\laura\Desktop\PEC1\node_modules\npm-run-all\node_modules\color-name\.npmignore133240690532834253 0
 85C:\Users\laura\Desktop\PEC1\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133240679655445920 0
@@ -86,13 +86,13 @@
 54C:\Users\laura\Desktop\PEC1\node_modules\picomatch\lib133240679632185093 1
 70C:\Users\laura\Desktop\PEC1\node_modules\svgo\plugins\convertColors.js133240679637239004 0
 109C:\Users\laura\Desktop\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\package.json133240679645169679 0
-44C:\Users\laura\Desktop\PEC1\src\eventos.html133264044671181808 0
+44C:\Users\laura\Desktop\PEC1\src\eventos.html133267203531580986 0
 57C:\Users\laura\Desktop\PEC1\node_modules\tslib\tslib.d.ts133240679636332486 0
 79C:\Users\laura\Desktop\PEC1\node_modules\rimraf\dist\cjs\src\rimraf-manual.d.ts133240690539124557 0
 79C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2016\ValidateTypedArray.js133240690547497858 0
 50C:\Users\laura\Desktop\PEC1\node_modules\commander133240679656122451 1
 82C:\Users\laura\Desktop\PEC1\node_modules\rimraf\dist\mjs\rimraf-move-remove.js.map133240690538781659 0
-42C:\Users\laura\Desktop\PEC1\src\feria.html133264073290960567 0
+42C:\Users\laura\Desktop\PEC1\src\feria.html133267203808863612 0
 63C:\Users\laura\Desktop\PEC1\node_modules\msgpackr\dist\index.js133240679638556798 0
 67C:\Users\laura\Desktop\PEC1\node_modules\react-refresh\package.json133240679636353292 0
 47C:\Users\laura\Desktop\PEC1\src\.git\objects\76133264075295419025 1
@@ -109,7 +109,7 @@
 71C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2017\SplitMatch.js133240690545038788 0
 80C:\Users\laura\Desktop\PEC1\node_modules\@parcel\transformer-babel\lib\config.js133240679654823107 0
 60C:\Users\laura\Desktop\PEC1\node_modules\minipass\index.d.ts133240690535384566 0
-42C:\Users\laura\Desktop\PEC1\src\index.html133264044577396654 0
+42C:\Users\laura\Desktop\PEC1\src\index.html133267203331972204 0
 64C:\Users\laura\Desktop\PEC1\node_modules\node-addon-api\index.js133240679636353292 0
 72C:\Users\laura\Desktop\PEC1\node_modules\shell-quote\.github\FUNDING.yml133240690537725839 0
 47C:\Users\laura\Desktop\PEC1\node_modules\rimraf133240690538956978 1
@@ -122,13 +122,13 @@
 59C:\Users\laura\Desktop\PEC1\node_modules\call-bind\index.js133240690536487521 0
 62C:\Users\laura\Desktop\PEC1\node_modules\shebang-regex\license133240690535474769 0
 76C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2018\GetGlobalObject.js133240690540866308 0
-43C:\Users\laura\Desktop\PEC1\src\motogp.html133264070015891904 0
+43C:\Users\laura\Desktop\PEC1\src\motogp.html133267203707080781 0
 47C:\Users\laura\Desktop\PEC1\src\.git\objects\93133264075294668099 1
 68C:\Users\laura\Desktop\PEC1\node_modules\spdx-license-ids\index.json133240690532817189 0
 65C:\Users\laura\Desktop\PEC1\node_modules\is-negative-zero\LICENSE133240690535449469 0
 66C:\Users\laura\Desktop\PEC1\node_modules\typed-array-length\.nycrc133240690533054200 0
 53C:\Users\laura\Desktop\PEC1\node_modules\yaml\pair.js133240679635778369 0
-56C:\Users\laura\Desktop\PEC1\dist\motogp2023.bb528111.jpg133264079451955178 0
+56C:\Users\laura\Desktop\PEC1\dist\motogp2023.bb528111.jpg133267227887537770 0
 68C:\Users\laura\Desktop\PEC1\node_modules\is-boolean-object\README.md133240690536352031 0
 52C:\Users\laura\Desktop\PEC1\node_modules\path-scurry133240690537348991 1
 64C:\Users\laura\Desktop\PEC1\node_modules\is-date-object\index.js133240690535210486 0
@@ -143,9 +143,9 @@
 68C:\Users\laura\Desktop\PEC1\node_modules\@lezer\common\dist\mix.d.ts133240679644766905 0
 61C:\Users\laura\Desktop\PEC1\node_modules\@swc\helpers\scripts133240679644495719 1
 66C:\Users\laura\Desktop\PEC1\node_modules\object.assign\polyfill.js133240690537951825 0
-49C:\Users\laura\Desktop\PEC1\src\presentacion.html133264073438460940 0
+49C:\Users\laura\Desktop\PEC1\src\presentacion.html133267203436334385 0
 100C:\Users\laura\Desktop\PEC1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1133240679638416849 0
-39C:\Users\laura\Desktop\PEC1\src\ss.html133264070308945697 0
+39C:\Users\laura\Desktop\PEC1\src\ss.html133267203945897800 0
 69C:\Users\laura\Desktop\PEC1\node_modules\glob\dist\mjs\has-magic.d.ts133240690538359874 0
 73C:\Users\laura\Desktop\PEC1\node_modules\regenerator-runtime\package.json133240679635310511 0
 81C:\Users\laura\Desktop\PEC1\node_modules\node-gyp-build-optional-packages\LICENSE133240679632350332 0
@@ -235,7 +235,7 @@
 47C:\Users\laura\Desktop\PEC1\src\.git\objects\c4133264075451307385 1
 69C:\Users\laura\Desktop\PEC1\node_modules\glob\dist\cjs\processor.d.ts133240690538474305 0
 106C:\Users\laura\Desktop\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file133240679644546778 1
-46C:\Users\laura\Desktop\PEC1\src\.git\logs\refs133264078359954572 1
+46C:\Users\laura\Desktop\PEC1\src\.git\logs\refs133264078360001095 1
 76C:\Users\laura\Desktop\PEC1\node_modules\svgo\plugins\convertStyleToAttrs.js133240679637496431 0
 83C:\Users\laura\Desktop\PEC1\node_modules\json-parse-even-better-errors\CHANGELOG.md133240679632869447 0
 50C:\Users\laura\Desktop\PEC1\node_modules\yaml\dist133240679638312300 1
@@ -265,7 +265,7 @@
 55C:\Users\laura\Desktop\PEC1\node_modules\ordered-binary133240679634593742 1
 72C:\Users\laura\Desktop\PEC1\node_modules\caniuse-lite\data\regions\IN.js133240679646771433 0
 47C:\Users\laura\Desktop\PEC1\src\.git\objects\15133264075294930117 1
-56C:\Users\laura\Desktop\PEC1\dist\gallo-azul.63445c57.png133264079451955178 0
+56C:\Users\laura\Desktop\PEC1\dist\gallo-azul.63445c57.png133267227887537770 0
 62C:\Users\laura\Desktop\PEC1\node_modules\get-port\package.json133240679656517297 0
 73C:\Users\laura\Desktop\PEC1\node_modules\terser\lib\compress\inference.js133240679645639143 0
 63C:\Users\laura\Desktop\PEC1\node_modules\css-tree\lib\tokenizer133240679640870358 1
@@ -1908,7 +1908,7 @@
 79C:\Users\laura\Desktop\PEC1\node_modules\rimraf\dist\cjs\src\index-cjs.d.ts.map133240690538310561 0
 69C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2022\ToLength.js133240690546400978 0
 77C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2022\BigInt\bitwiseOR.js133240690539137688 0
-50C:\Users\laura\Desktop\PEC1\dist\index.e8571fb6.js133264079454023505 0
+50C:\Users\laura\Desktop\PEC1\dist\index.e8571fb6.js133267227888662963 0
 53C:\Users\laura\Desktop\PEC1\node_modules\svgo\plugins133240679639648395 1
 73C:\Users\laura\Desktop\PEC1\node_modules\svgo\plugins\removeEmptyAttrs.js133240679638799483 0
 55C:\Users\laura\Desktop\PEC1\node_modules\svgo\README.md133240679640366770 0
@@ -2013,7 +2013,7 @@
 58C:\Users\laura\Desktop\PEC1\node_modules\svgo\lib\types.ts133240679640501538 0
 60C:\Users\laura\Desktop\PEC1\node_modules\is-weakref\index.js133240690535536824 0
 75C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2019\HasOwnProperty.js133240690541277748 0
-54C:\Users\laura\Desktop\PEC1\dist\presFoto.af273096.jpg133264079451955178 0
+54C:\Users\laura\Desktop\PEC1\dist\presFoto.af273096.jpg133267227887537770 0
 57C:\Users\laura\Desktop\PEC1\node_modules\svgo\lib\xast.js133240679640316183 0
 82C:\Users\laura\Desktop\PEC1\node_modules\@swc\helpers\src\_object_spread_props.mjs133240679645452099 0
 61C:\Users\laura\Desktop\PEC1\node_modules\svgo\lib\svgo\coa.js133240679636992146 0
@@ -2701,7 +2701,7 @@
 73C:\Users\laura\Desktop\PEC1\node_modules\css-what\lib\commonjs\types.d.ts133240679636153055 0
 67C:\Users\laura\Desktop\PEC1\node_modules\msgpackr-extract\README.md133240679633857010 0
 67C:\Users\laura\Desktop\PEC1\node_modules\is-number-object\README.md133240690536120126 0
-54C:\Users\laura\Desktop\PEC1\dist\index.e8571fb6.js.map133264079454106630 0
+54C:\Users\laura\Desktop\PEC1\dist\index.e8571fb6.js.map133267227888726743 0
 76C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2021\ThrowCompletion.js133240690545813144 0
 94C:\Users\laura\Desktop\PEC1\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js133240679655603384 0
 92C:\Users\laura\Desktop\PEC1\node_modules\resolve\test\resolver\nested_symlinks\mylib\sync.js133240690538864224 0
@@ -3161,7 +3161,7 @@
 69C:\Users\laura\Desktop\PEC1\node_modules\object-inspect\test\undef.js133240690537739950 0
 72C:\Users\laura\Desktop\PEC1\node_modules\caniuse-lite\data\regions\RU.js133240679649621270 0
 75C:\Users\laura\Desktop\PEC1\node_modules\object-inspect\example\circular.js133240690535878482 0
-50C:\Users\laura\Desktop\PEC1\dist\index.3a243ef8.js133264079454023505 0
+50C:\Users\laura\Desktop\PEC1\dist\index.3a243ef8.js133267227888662963 0
 69C:\Users\laura\Desktop\PEC1\node_modules\nth-check\lib\esm\parse.d.ts133240679636208752 0
 75C:\Users\laura\Desktop\PEC1\node_modules\caniuse-lite\dist\lib\supported.js133240679650340040 0
 74C:\Users\laura\Desktop\PEC1\node_modules\object-inspect\example\inspect.js133240690537519451 0
@@ -3218,7 +3218,7 @@
 109C:\Users\laura\Desktop\PEC1\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133240679672745397 0
 71C:\Users\laura\Desktop\PEC1\node_modules\nth-check\lib\esm\package.json133240679633337182 0
 69C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2017\MakeTime.js133240690543150989 0
-54C:\Users\laura\Desktop\PEC1\dist\index.3a243ef8.js.map133264079454106630 0
+54C:\Users\laura\Desktop\PEC1\dist\index.3a243ef8.js.map133267227888726743 0
 73C:\Users\laura\Desktop\PEC1\node_modules\nth-check\lib\esm\parse.d.ts.map133240679634968517 0
 58C:\Users\laura\Desktop\PEC1\node_modules\globals\readme.md133240679636477847 0
 77C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2019\IsDataDescriptor.js133240690541929548 0
@@ -3758,7 +3758,7 @@
 63C:\Users\laura\Desktop\PEC1\node_modules\is-regex\.editorconfig133240690533538952 0
 71C:\Users\laura\Desktop\PEC1\node_modules\get-symbol-description\LICENSE133240690535541825 0
 71C:\Users\laura\Desktop\PEC1\node_modules\is-number-object\.editorconfig133240690532722240 0
-55C:\Users\laura\Desktop\PEC1\dist\index.45af808b.css.map133264079454106630 0
+55C:\Users\laura\Desktop\PEC1\dist\index.45af808b.css.map133267227888726743 0
 63C:\Users\laura\Desktop\PEC1\node_modules\is-regex\.eslintignore133240690534080548 0
 61C:\Users\laura\Desktop\PEC1\node_modules\@parcel\packager-svg133240679658868282 1
 62C:\Users\laura\Desktop\PEC1\node_modules\is-number-object\test133240690535104199 1
@@ -4607,7 +4607,7 @@
 59C:\Users\laura\Desktop\PEC1\node_modules\@parcel\utils\test133240679669267388 1
 72C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2022\GetIterator.js133240690540866308 0
 79C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2016\CreateDataProperty.js133240690539606621 0
-51C:\Users\laura\Desktop\PEC1\dist\index.45af808b.css133264079454023505 0
+51C:\Users\laura\Desktop\PEC1\dist\index.45af808b.css133267227888662963 0
 78C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2022\GetMatchIndexPair.js133240690540866308 0
 69C:\Users\laura\Desktop\PEC1\node_modules\@parcel\workers\lib\child.js133240679646771433 0
 71C:\Users\laura\Desktop\PEC1\node_modules\es-abstract\2016\CreateHTML.js133240690539762828 0
@@ -6651,7 +6651,7 @@
 71C:\Users\laura\Desktop\PEC1\node_modules\@swc\helpers\src\_ts_param.mjs133240679645692619 0
 92C:\Users\laura\Desktop\PEC1\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.mjs133240679645706214 0
 83C:\Users\laura\Desktop\PEC1\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133240679645726130 0
-40C:\Users\laura\Desktop\PEC1\dist\ss.html133264079454023505 0
+40C:\Users\laura\Desktop\PEC1\dist\ss.html133267227888662963 0
 80C:\Users\laura\Desktop\PEC1\node_modules\@swc\helpers\src\_wrap_native_super.mjs133240679645737029 0
 70C:\Users\laura\Desktop\PEC1\node_modules\@swc\helpers\scripts\build.sh133240679644495719 0
 74C:\Users\laura\Desktop\PEC1\node_modules\@swc\helpers\scripts\generator.sh133240679644546778 0
@@ -7105,7 +7105,7 @@
 152C:\Users\laura\Desktop\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\source.js133240679644314969 0
 96C:\Users\laura\Desktop\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\nested\index.js133240679643106939 0
 95C:\Users\laura\Desktop\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\nested\test.js133240679644375330 0
-45C:\Users\laura\Desktop\PEC1\dist\enlaces.html133264079454023505 0
+45C:\Users\laura\Desktop\PEC1\dist\enlaces.html133267227888662963 0
 101C:\Users\laura\Desktop\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\env-dep\package.json133240679644490731 0
 81C:\Users\laura\Desktop\PEC1\node_modules\@parcel\node-resolver-core\src\_empty.js133240679642258497 0
 66C:\Users\laura\Desktop\PEC1\node_modules\@parcel\namer-default\lib133240679659139525 1
@@ -7403,11 +7403,11 @@
 54C:\Users\laura\Desktop\PEC1\node_modules\.bin\svgo.ps1133240679717141072 0
 56C:\Users\laura\Desktop\PEC1\node_modules\.bin\terser.ps1133240679717165452 0
 55C:\Users\laura\Desktop\PEC1\node_modules\.bin\which.cmd133240690547880727 0
-45C:\Users\laura\Desktop\PEC1\dist\eventos.html133264079454039814 0
-52C:\Users\laura\Desktop\PEC1\dist\feria.6e09e338.jpeg133264079442325075 0
-43C:\Users\laura\Desktop\PEC1\dist\feria.html133264079454039814 0
-57C:\Users\laura\Desktop\PEC1\dist\feriaCartel.ca143bf8.jpg133264079451955178 0
-43C:\Users\laura\Desktop\PEC1\dist\index.html133264079454023505 0
-44C:\Users\laura\Desktop\PEC1\dist\motogp.html133264079454039814 0
-50C:\Users\laura\Desktop\PEC1\dist\presentacion.html133264079454023505 0
-57C:\Users\laura\Desktop\PEC1\dist\semanaSanta.a824b4ec.jpg133264079442325075 0
+45C:\Users\laura\Desktop\PEC1\dist\eventos.html133267227888662963 0
+52C:\Users\laura\Desktop\PEC1\dist\feria.6e09e338.jpeg133267227880706948 0
+43C:\Users\laura\Desktop\PEC1\dist\feria.html133267227888662963 0
+57C:\Users\laura\Desktop\PEC1\dist\feriaCartel.ca143bf8.jpg133267227887537770 0
+43C:\Users\laura\Desktop\PEC1\dist\index.html133267227888662963 0
+44C:\Users\laura\Desktop\PEC1\dist\motogp.html133267227888662963 0
+50C:\Users\laura\Desktop\PEC1\dist\presentacion.html133267227888662963 0
+57C:\Users\laura\Desktop\PEC1\dist\semanaSanta.a824b4ec.jpg133267227880706948 0
