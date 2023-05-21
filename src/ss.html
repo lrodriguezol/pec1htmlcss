@@ -6,6 +6,7 @@
     <title>Eventos - Semana Santa</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="css/styles.css" />
     <script type="module" src="app.js"></script>
@@ -17,8 +18,8 @@
      <header>
         <div class="container">
 
-            <div class="tit">
-              <h1><a href="index.html">Jerez<span>Fra</span></a></h1>
+            <div class="tit"> 
+                <h1><a href="index.html"><img class="logo" src="img/Escudo_de_Jerez_de_la_Frontera.svg" alt="Logo" title="Escudo Jerez">Jerez<span>Fra</span></a></h1>
             </div>
 
             <nav>
@@ -45,11 +46,12 @@
 
              <div class="texto">   
                 
-                <!--Imagen Cartel Semana Santa-->
-                <figure>
-                  <img class="imgSS" id="mi-imagen" src="img/semanaSanta.jpg" alt="Imagen Cartel Semana Santa">
-                  <figcaption>Cartel Semana Santa Jerez 2.023</figcaption>
-                </figure>
+                <!--Imagen Destacada Semana Santa-->
+                <picture>
+                  <source media="(max-width: 991px)" srcset="img/direccionArteSS.jpg" />
+                  <source media="(min-width: 992px)" srcset="img/1_semanasanta.jpg" />
+                  <img class="imgEven" src="img/1_semanasanta.jpg" alt="Imagen Destacada Cortejo Semana Santa Jerez" />
+                </picture>
                 
                 <p>
                     La <strong>Semana Santa de Jerez</strong> constituye una de las referencias más importantes dentro del calendario festivo de la ciudad, ya que, declarada<strong> de Interés Turístico Nacional</strong>, su puesta en la calle, su historia, y sus formas, le confieren sin duda unas características especiales, que la hacen diferente al resto de las que se celebran en otros puntos de nuestra geografía.
@@ -64,17 +66,37 @@
                 <p>
                     La Semana Santa de Jerez puede presumir de un rico patrimonio cultural histórico y artístico puesto que los más reconocidos imagineros, tallistas, orfebres y bordadores de los últimos siglos han contribuido a engrandecerla, dejando en ella un legado difícil de igualar. Esta circunstancia, unido al elevado número de hermandades, el más cuantioso tras Sevilla, y junto con la presencia de la típica saeta flamenca, el palo flamenco de Semana Santa, convierten a esta Semana Santa en una de las más relevantes de Andalucía y España.
                 </p>
+
+                <!--Imagen Semana Santa-->
+                <figure>
+                  <img src="img/2_semanasanta.jpg" alt="Imagen Semana Santa">
+                  <figcaption>Imagen Semana Santa Jerez.</figcaption>
+                </figure>
+
                 <p>
                     Cabe destacar que el Flamenco es el bien etnológico andaluz, el bien vinculado a la cultura andaluza, más universal que el 16 de noviembre de 2010 fue declarado por la <a href="https://es.wikipedia.org/wiki/Unesco" target="_blank">UNESCO</a> Patrimonio Inmaterial de la Humanidad. Esta cuestión adquiere una mayor relevancia en Jerez puesto que la saeta flamenca es de especial arraigo y esta ciudad es considerada además como una de las cunas del flamenco, siendo Jerez sede del Centro Andaluz de Documentación del Flamenco (CADF) que se encuentra ubicado en el Palacio de Pemartin. 
                     <br>
                     Jerez de la Frontera y su Semana Santa también tiene el honor de haber sido la sede del "Congreso Nacional de Cofradías" celebrado en el año 2005, así como de haber formado parte en 2011 de la procesión magna de Madrid que se celebró como colofón a la "Jornada Mundial de la Juventud" (JMJ) convocada por el Papa Benedicto XVI, interviniendo con el paso de Nuestro Padre Jesús de las Misericordias de la Hermandad de la Candelaria, representando la octava estación del Magno Vía Crucis que allí se celebró ante la presencia del Santo Padre.
                 </p>
+
+                 <!--Imagen Cartel Semana Santa-->
+                <figure>
+                  <img class="imgSS" id="mi-imagen" src="img/semanaSanta.webp" alt="Imagen Cartel Semana Santa">
+                  <figcaption>Cartel Semana Santa Jerez 2.023</figcaption>
+                </figure>
+
             </div>
         </article>
     </main>
    <!--Pie de Página-->
     <footer>
         <div class="container">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="presentacion.html">Presentación</a></li>
+                <li><a href="eventos.html">Eventos</a></li>
+                <li><a href="enlaces.html">Enlaces</a></li>
+            </ul>
             <p>Asignatura Herramientas HTML y CSS</p>
             <p>Práctica de Laura Rodríguez Olmo &copy; 2023 
                 <a id="boton-twitter" href="#">

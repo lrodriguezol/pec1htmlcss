@@ -6,6 +6,7 @@
     <title>Eventos - Feria</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="css/styles.css" />
     <script type="module" src="app.js"></script>
@@ -17,7 +18,7 @@
      <header>
         <div class="container">
             <div class="tit">
-               <h1><a href="index.html">Jerez<span>Fra</span></a></h1>
+                <h1><a href="index.html"><img class="logo" src="img/Escudo_de_Jerez_de_la_Frontera.svg" alt="Logo" title="Escudo Jerez">Jerez<span>Fra</span></a></h1>
             </div>
             <nav>
                 <ul>
@@ -50,14 +51,22 @@
                 <p>
                     La Feria de Jerez está declarada <strong>Fiesta de Interés Turístico Internacional</strong>, siendo esta una de las mejores y más visitadas de España, la cual se celebra en la segunda semana de mayo y siempre antes de la Romería del Rocío. Durante las fiestas y entre semana, desfilan caballos con sus jinetes que, como antaño, se siguen vendiendo. Durante toda la semana, sólo durante el día, hay un gran desfile de coches de caballos por las calles centrales.
                 </p>
+
+                <!--Imagen Destacada Feria del Caballo-->
+                <picture>
+                  <source media="(max-width: 991px)" srcset="img/direccionArteFeria.jpg" />
+                  <source media="(min-width: 992px)" srcset="img/feria.jpeg" />
+                  <img class="imgEven" src="img/feria.jpeg" alt="Imagen Destacada Feria Jerez" />
+                </picture>
+
                 <p>
                     La Feria se celebra actualmente en el <a href="https://es.wikipedia.org/wiki/Parque_Gonz%C3%A1lez_Hontoria" target="blank">Parque González Hontoria</a>, un parque que combina grandes zonas de albero con partes ajardinadas. La puerta principal de dicho parque se usa como portada de la Feria.
                     A lo largo de la Feria se desarrollan distintas actividades relativas al mundo del caballo, como concursos de enganches, morfológicos y de cocheros, destacando el galardón Caballo de Oro.    
                 </p>
 
-                <!--Imagen Cartel MotoGP 2.023-->
+                <!--Imagen Cartel Feria 2.023-->
                 <figure>
-                  <img class="imgSS" id="mi-imagen" src="img/feriaCartel.jpg" alt="Imagen Cartel Feria Jerez">
+                  <img class="imgSS" id="mi-imagen" src="img/feriaCartel.webp" alt="Imagen Cartel Feria Jerez">
                   <figcaption>Cartel Feria del Caballo Jerez 2.023</figcaption>
                 </figure>
 
@@ -66,14 +75,20 @@
 
                     La novedad de este año es que las estructuras de las casetas permitirán una mayor accesibilidad por la amplitud de la entrada. 
                 </p>
+
+                <!--Mapa Feria del Caballo 2.023-->
+                <p>
+                <object class="plano" data="img/2_feria.pdf" type="application/pdf"></object>
+                </p>
+                
                 <p>
                     La Feria del Caballo se celebrará del 6 al 13 de mayo y estará dedicada a la moda flamenca, en <strong>homenaje a los 100 años del nacimiento de <a href="https://es.wikipedia.org/wiki/Lola_Flores" target="blank">Lola Flores</a>.</strong>
                 </p>
                 
                 <!--Imagen Feria del Caballo-->
                 <figure>
-                  <img src="img/feria.jpeg" alt="Imagen Feria Jerez">
-                  <figcaption>Recinto Ferial Jerez de la Frontera.</figcaption>
+                  <img src="img/1_feria.jpg" alt="Imagen Feria Jerez Alumbrado">
+                  <figcaption>Alumbrado Recinto Ferial Jerez de la Frontera.</figcaption>
                 </figure>
 
             </div>
@@ -83,6 +98,12 @@
    <!--Pie de Página-->
     <footer>
         <div class="container">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="presentacion.html">Presentación</a></li>
+                <li><a href="eventos.html">Eventos</a></li>
+                <li><a href="enlaces.html">Enlaces</a></li>
+            </ul>
             <p>Asignatura Herramientas HTML y CSS</p>
             <p>Práctica de Laura Rodríguez Olmo &copy; 2023 
                 <a id="boton-twitter" href="#">
