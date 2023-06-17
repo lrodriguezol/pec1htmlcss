@@ -1,2 +1,0 @@
-document.querySelector("#boton-twitter").addEventListener("click",(function(){window.open("https://twitter.com/ciudadjerez")})),document.querySelector("#boton-facebook").addEventListener("click",(function(){window.open("https://es-es.facebook.com/AyuntamientodeJerez/")}));var e=document.getElementById("mi-imagen");e.addEventListener("click",(function(){"scale(2)"===e.style.transform?e.style.transform="scale(1)":e.style.transform="scale(2)"}));
-//# sourceMappingURL=index.e8571fb6.js.map
